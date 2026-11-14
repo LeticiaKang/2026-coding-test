@@ -9,7 +9,7 @@ class Solution {
         return answer;
     }
     
-    //최대공약수 
+    //최대공약수  >> 이거 만드는 방법 찾아보고 풀었음.. 어렵다
     private int getGCD(int a, int b) {
         if(b == 0) {
             return a;
